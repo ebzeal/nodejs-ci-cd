@@ -1,0 +1,9 @@
+{
+  "name": "ci-cd-nodejs",
+  "version": "1.0.0",
+  "description": "Small Node.js app for CI/CD pipeline",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
